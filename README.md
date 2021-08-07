@@ -6,3 +6,11 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mdadul&show_icons=true&include_all_commits=true)](https://github.com/mdadul/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdadul&layout=compact)](https://github.com/mdadul/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdadul)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdadul)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdadul)  
+
