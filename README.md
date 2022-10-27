@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **HTML,CSS, C, C++, GoLang**
+- 💬 Ask me about **HTML,CSS, C, C++,Javascript, Bootstrap, GoLang**
 
 
 
