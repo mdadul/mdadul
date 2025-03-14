@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HonoJs, Docker, Deno**
 
-- 💬 Ask me about **Typescript, NextJs**
+- 💬 Ask me about **Typescript, NextJs, Expo**
 
 
 
@@ -22,13 +22,13 @@
 </p>
 
 ### 💻 Tools and Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,git,tailwindcss,html,css,react,nextjs,supabase,express,nodejs,mongodb,postgres,cloudflare,docker,vercel,ubuntu,postman,wordpress)](github.com/mdadul)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,git,tailwindcss,html,css,react,nextjs,supabase,express,nodejs,mongodb,postgres,cloudflare,docker,bun,vercel,ubuntu,postman,wordpress,figma,sentry)](github.com/mdadul)
 
 ## Projects
 
 | Name                | Tech Stack                                                                                   | Link                                      |
 |---------------------|----------------------------------------------------------------------------------------|-------------------------------------------------|
-| **QueryHub**         | Jotai, NextJs, TypeScript                                                              | [QueryHub](https://www.queryhub.info/)           |
+| **QueryHub**         | Jotai, NextJs, TypeScript, Tailwind CSS                                                 | [QueryHub](https://www.queryhub.info/)           |
 | **IEEE CS BDC**      | Axios, Cloudinary, ExpressJs, MongoDB, Mongoose, React, Tailwind CSS, TanStack Query    | [IEEE CS BDC](https://ieeecsbdc.org/)            |
 | **Symposium 2024**   | NextJs, React, ShadcnUI, Tailwind CSS, TypeScript                                       | [Symposium 2024](https://symposium24.ieeecsbdc.org/) |
 | **COMPAS**           | MUI, NextJs, React, Tailwind CSS, TypeScript                                            | [COMPAS](https://www.compasconf.org/)            |
